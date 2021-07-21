@@ -1,0 +1,9 @@
+{
+    "niftyzone-nft": [
+      { "id": 1, "title": "Starting Piece", "artist": "nich", "quantity": 3, "token-uri": "some-uri-value" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "nicholas@niftyzone.com" }
+  }
