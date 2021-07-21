@@ -8,8 +8,8 @@
     ],
     "profile": { "name": "nicholas@niftyzone.com" },
     "0xc4d58aef6dc827d175b0c9d4096a79d4a7506f15": [
-      { "id": 0, "title": "xDAI Numbah 1", "artist": "NICREATIVE", "quantity": 1, "token-uri": "http://localhost:3000/0xc4d58aef6dc827d175b0c9d4096a79d4a7506f15/0", "image-url": "https://www.niftyzone.com/wp-content/uploads/2021/06/nicreative_rowlet_brain.jpg"},
-      { "id": 1, "title": "xDAI Number 2", "artist": "NICREATIVE", "quantity": 1, "token-uri": "http://localhost:3000/0xc4d58aef6dc827d175b0c9d4096a79d4a7506f15/1", "image-url": "https://www.niftyzone.com/wp-content/uploads/2021/06/nicreative_rowlet_brain.jpg"},
+      { "id": 0, "title": "xDAI Numbah 1", "artist": "NICREATIVE", "quantity": 1, "token-uri": "https://my-json-server.typicode.com/NickCwh/nft-json-server/0xc4d58aef6dc827d175b0c9d4096a79d4a7506f15/0", "image-url": "https://www.niftyzone.com/wp-content/uploads/2021/06/nicreative_rowlet_brain.jpg"},
+      { "id": 1, "title": "xDAI Number 2", "artist": "NICREATIVE", "quantity": 1, "token-uri": "https://my-json-server.typicode.com/NickCwh/nft-json-server/0xc4d58aef6dc827d175b0c9d4096a79d4a7506f15/1", "image-url": "https://www.niftyzone.com/wp-content/uploads/2021/06/nicreative_rowlet_brain.jpg"},
       { "id": 2, "title": "xDAI Numbah Start", "artist": "NICREATIVE", "quantity": 1, "token-uri": "https://my-json-server.typicode.com/NickCwh/nft-json-server/0xc4d58aef6dc827d175b0c9d4096a79d4a7506f15/2", "image-url": "https://www.niftyzone.com/wp-content/uploads/2021/06/nicreative_rowlet_brain.jpg"},
       { "id": 3, "title": "xDAI LaterBuddy", "artist": "NICREATIVE", "quantity": 1, "token-uri": "https://my-json-server.typicode.com/NickCwh/nft-json-server/0xc4d58aef6dc827d175b0c9d4096a79d4a7506f15/3", "image-url": "https://www.niftyzone.com/wp-content/uploads/2021/06/nicreative_rowlet_brain.jpg"}
     ]
