@@ -3,8 +3,8 @@
       { "id": 1, "title": "Starting Piece", "artist": "NICREATIVE", "quantity": 3, "token-uri": "www.niftyzone.com/niftyzone-nft/1", "image-url": "https://www.niftyzone.com/wp-content/uploads/2021/06/nicreative_rowlet_brain.jpg" },
       { "id": 2, "title": "Tokenception", "artist": "AkuTest", "quantity": 1, "token-uri": "www.niftyzone.com/niftyzone-nft/2", "image-url": "https://www.niftyzone.com/wp-content/uploads/2021/06/okie_napie_space_jam.jpg" }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
+    "greetings": [
+      { "id": 1, "body": "Welcome to NFT Json Server", "postId": 1 }
     ],
     "profile": { "name": "nicholas@niftyzone.com" }
   }
